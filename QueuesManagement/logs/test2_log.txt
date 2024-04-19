@@ -1,0 +1,481 @@
+Simulation Time: 1
+Processed clients: 0
+Clients left: 50
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Assigning Client ID: 10 to a queue 1
+Assigning Client ID: 13 to a queue 2
+Assigning Client ID: 46 to a queue 3
+Simulation Time: 2
+Processed clients: 0
+Clients left: 50
+Queue 1: ((Client 10) A.T: 2, S.T: 1); 
+Queue 2: ((Client 13) A.T: 2, S.T: 7); 
+Queue 3: ((Client 46) A.T: 2, S.T: 3); 
+Queue 4: 
+Queue 5: 
+Assigning Client ID: 35 to a queue 1
+Assigning Client ID: 49 to a queue 4
+Simulation Time: 3
+Processed clients: 1
+Clients left: 49
+Queue 1: ((Client 35) A.T: 3, S.T: 3); 
+Queue 2: ((Client 13) A.T: 2, S.T: 6); 
+Queue 3: ((Client 46) A.T: 2, S.T: 2); 
+Queue 4: ((Client 49) A.T: 3, S.T: 4); 
+Queue 5: 
+Simulation Time: 4
+Processed clients: 1
+Clients left: 49
+Queue 1: ((Client 35) A.T: 3, S.T: 2); 
+Queue 2: ((Client 13) A.T: 2, S.T: 5); 
+Queue 3: ((Client 46) A.T: 2, S.T: 1); 
+Queue 4: ((Client 49) A.T: 3, S.T: 3); 
+Queue 5: 
+Simulation Time: 5
+Processed clients: 1
+Clients left: 49
+Queue 1: ((Client 35) A.T: 3, S.T: 2); 
+Queue 2: ((Client 13) A.T: 2, S.T: 5); 
+Queue 3: ((Client 46) A.T: 2, S.T: 1); 
+Queue 4: ((Client 49) A.T: 3, S.T: 3); 
+Queue 5: 
+Assigning Client ID: 25 to a queue 1
+Assigning Client ID: 37 to a queue 3
+Assigning Client ID: 39 to a queue 5
+Simulation Time: 6
+Processed clients: 3
+Clients left: 47
+Queue 1: ((Client 25) A.T: 6, S.T: 4); 
+Queue 2: ((Client 13) A.T: 2, S.T: 4); 
+Queue 3: ((Client 37) A.T: 6, S.T: 3); 
+Queue 4: ((Client 49) A.T: 3, S.T: 2); 
+Queue 5: ((Client 39) A.T: 6, S.T: 1); 
+Simulation Time: 7
+Processed clients: 3
+Clients left: 47
+Queue 1: ((Client 25) A.T: 6, S.T: 4); 
+Queue 2: ((Client 13) A.T: 2, S.T: 3); 
+Queue 3: ((Client 37) A.T: 6, S.T: 2); 
+Queue 4: ((Client 49) A.T: 3, S.T: 1); 
+Queue 5: ((Client 39) A.T: 6, S.T: 1); 
+Assigning Client ID: 52 to a queue 4
+Simulation Time: 8
+Processed clients: 5
+Clients left: 45
+Queue 1: ((Client 25) A.T: 6, S.T: 3); 
+Queue 2: ((Client 13) A.T: 2, S.T: 2); 
+Queue 3: ((Client 37) A.T: 6, S.T: 1); 
+Queue 4: ((Client 52) A.T: 8, S.T: 7); 
+Queue 5: 
+Simulation Time: 9
+Processed clients: 6
+Clients left: 44
+Queue 1: ((Client 25) A.T: 6, S.T: 2); 
+Queue 2: ((Client 13) A.T: 2, S.T: 1); 
+Queue 3: 
+Queue 4: ((Client 52) A.T: 8, S.T: 6); 
+Queue 5: 
+Assigning Client ID: 51 to a queue 2
+Simulation Time: 10
+Processed clients: 7
+Clients left: 43
+Queue 1: ((Client 25) A.T: 6, S.T: 1); 
+Queue 2: ((Client 51) A.T: 10, S.T: 4); 
+Queue 3: 
+Queue 4: ((Client 52) A.T: 8, S.T: 5); 
+Queue 5: 
+Assigning Client ID: 12 to a queue 1
+Assigning Client ID: 30 to a queue 3
+Assigning Client ID: 44 to a queue 5
+Simulation Time: 11
+Processed clients: 8
+Clients left: 42
+Queue 1: ((Client 12) A.T: 11, S.T: 3); 
+Queue 2: ((Client 51) A.T: 10, S.T: 3); 
+Queue 3: ((Client 30) A.T: 11, S.T: 1); 
+Queue 4: ((Client 52) A.T: 8, S.T: 4); 
+Queue 5: ((Client 44) A.T: 11, S.T: 5); 
+Assigning Client ID: 9 to a queue 3
+Simulation Time: 12
+Processed clients: 9
+Clients left: 41
+Queue 1: ((Client 12) A.T: 11, S.T: 2); 
+Queue 2: ((Client 51) A.T: 10, S.T: 2); 
+Queue 3: ((Client 9) A.T: 12, S.T: 5); 
+Queue 4: ((Client 52) A.T: 8, S.T: 3); 
+Queue 5: ((Client 44) A.T: 11, S.T: 4); 
+Assigning Client ID: 22 to a queue 1
+Simulation Time: 13
+Processed clients: 9
+Clients left: 41
+Queue 1: ((Client 12) A.T: 11, S.T: 1); ((Client 22) A.T: 13, S.T: 1); 
+Queue 2: ((Client 51) A.T: 10, S.T: 1); 
+Queue 3: ((Client 9) A.T: 12, S.T: 4); 
+Queue 4: ((Client 52) A.T: 8, S.T: 2); 
+Queue 5: ((Client 44) A.T: 11, S.T: 3); 
+Assigning Client ID: 38 to a queue 2
+Simulation Time: 14
+Processed clients: 11
+Clients left: 39
+Queue 1: ((Client 22) A.T: 13, S.T: 1); 
+Queue 2: ((Client 38) A.T: 14, S.T: 3); 
+Queue 3: ((Client 9) A.T: 12, S.T: 3); 
+Queue 4: ((Client 52) A.T: 8, S.T: 1); 
+Queue 5: ((Client 44) A.T: 11, S.T: 2); 
+Simulation Time: 15
+Processed clients: 13
+Clients left: 37
+Queue 1: 
+Queue 2: ((Client 38) A.T: 14, S.T: 2); 
+Queue 3: ((Client 9) A.T: 12, S.T: 2); 
+Queue 4: 
+Queue 5: ((Client 44) A.T: 11, S.T: 1); 
+Assigning Client ID: 21 to a queue 1
+Simulation Time: 16
+Processed clients: 14
+Clients left: 36
+Queue 1: ((Client 21) A.T: 16, S.T: 3); 
+Queue 2: ((Client 38) A.T: 14, S.T: 1); 
+Queue 3: ((Client 9) A.T: 12, S.T: 1); 
+Queue 4: 
+Queue 5: 
+Assigning Client ID: 19 to a queue 2
+Assigning Client ID: 58 to a queue 3
+Simulation Time: 17
+Processed clients: 16
+Clients left: 34
+Queue 1: ((Client 21) A.T: 16, S.T: 2); 
+Queue 2: ((Client 19) A.T: 17, S.T: 4); 
+Queue 3: ((Client 58) A.T: 17, S.T: 4); 
+Queue 4: 
+Queue 5: 
+Simulation Time: 18
+Processed clients: 16
+Clients left: 34
+Queue 1: ((Client 21) A.T: 16, S.T: 1); 
+Queue 2: ((Client 19) A.T: 17, S.T: 3); 
+Queue 3: ((Client 58) A.T: 17, S.T: 3); 
+Queue 4: 
+Queue 5: 
+Simulation Time: 19
+Processed clients: 17
+Clients left: 33
+Queue 1: 
+Queue 2: ((Client 19) A.T: 17, S.T: 2); 
+Queue 3: ((Client 58) A.T: 17, S.T: 2); 
+Queue 4: 
+Queue 5: 
+Assigning Client ID: 36 to a queue 1
+Simulation Time: 20
+Processed clients: 17
+Clients left: 33
+Queue 1: ((Client 36) A.T: 20, S.T: 4); 
+Queue 2: ((Client 19) A.T: 17, S.T: 1); 
+Queue 3: ((Client 58) A.T: 17, S.T: 1); 
+Queue 4: 
+Queue 5: 
+Simulation Time: 21
+Processed clients: 19
+Clients left: 31
+Queue 1: ((Client 36) A.T: 20, S.T: 3); 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Assigning Client ID: 20 to a queue 2
+Assigning Client ID: 32 to a queue 3
+Simulation Time: 22
+Processed clients: 19
+Clients left: 31
+Queue 1: ((Client 36) A.T: 20, S.T: 2); 
+Queue 2: ((Client 20) A.T: 22, S.T: 5); 
+Queue 3: ((Client 32) A.T: 22, S.T: 1); 
+Queue 4: 
+Queue 5: 
+Assigning Client ID: 18 to a queue 3
+Assigning Client ID: 26 to a queue 4
+Simulation Time: 23
+Processed clients: 20
+Clients left: 30
+Queue 1: ((Client 36) A.T: 20, S.T: 1); 
+Queue 2: ((Client 20) A.T: 22, S.T: 4); 
+Queue 3: ((Client 18) A.T: 23, S.T: 1); 
+Queue 4: ((Client 26) A.T: 23, S.T: 2); 
+Queue 5: 
+Assigning Client ID: 55 to a queue 1
+Simulation Time: 24
+Processed clients: 22
+Clients left: 28
+Queue 1: ((Client 55) A.T: 24, S.T: 7); 
+Queue 2: ((Client 20) A.T: 22, S.T: 3); 
+Queue 3: 
+Queue 4: ((Client 26) A.T: 23, S.T: 1); 
+Queue 5: 
+Simulation Time: 25
+Processed clients: 23
+Clients left: 27
+Queue 1: ((Client 55) A.T: 24, S.T: 6); 
+Queue 2: ((Client 20) A.T: 22, S.T: 2); 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+Assigning Client ID: 23 to a queue 3
+Assigning Client ID: 33 to a queue 4
+Assigning Client ID: 40 to a queue 5
+Simulation Time: 26
+Processed clients: 23
+Clients left: 27
+Queue 1: ((Client 55) A.T: 24, S.T: 5); 
+Queue 2: ((Client 20) A.T: 22, S.T: 1); 
+Queue 3: ((Client 23) A.T: 26, S.T: 6); 
+Queue 4: ((Client 33) A.T: 26, S.T: 7); 
+Queue 5: ((Client 40) A.T: 26, S.T: 6); 
+Simulation Time: 27
+Processed clients: 24
+Clients left: 26
+Queue 1: ((Client 55) A.T: 24, S.T: 4); 
+Queue 2: 
+Queue 3: ((Client 23) A.T: 26, S.T: 5); 
+Queue 4: ((Client 33) A.T: 26, S.T: 6); 
+Queue 5: ((Client 40) A.T: 26, S.T: 5); 
+Assigning Client ID: 14 to a queue 2
+Assigning Client ID: 24 to a queue 1
+Assigning Client ID: 53 to a queue 3
+Simulation Time: 28
+Processed clients: 24
+Clients left: 26
+Queue 1: ((Client 55) A.T: 24, S.T: 3); ((Client 24) A.T: 28, S.T: 5); 
+Queue 2: ((Client 14) A.T: 28, S.T: 6); 
+Queue 3: ((Client 23) A.T: 26, S.T: 4); ((Client 53) A.T: 28, S.T: 1); 
+Queue 4: ((Client 33) A.T: 26, S.T: 5); 
+Queue 5: ((Client 40) A.T: 26, S.T: 4); 
+Assigning Client ID: 42 to a queue 5
+Assigning Client ID: 45 to a queue 3
+Assigning Client ID: 50 to a queue 4
+Assigning Client ID: 56 to a queue 2
+Simulation Time: 29
+Processed clients: 24
+Clients left: 26
+Queue 1: ((Client 55) A.T: 24, S.T: 2); ((Client 24) A.T: 28, S.T: 5); 
+Queue 2: ((Client 14) A.T: 28, S.T: 5); ((Client 56) A.T: 29, S.T: 6); 
+Queue 3: ((Client 23) A.T: 26, S.T: 3); ((Client 53) A.T: 28, S.T: 1); ((Client 45) A.T: 29, S.T: 7); 
+Queue 4: ((Client 33) A.T: 26, S.T: 4); ((Client 50) A.T: 29, S.T: 7); 
+Queue 5: ((Client 40) A.T: 26, S.T: 3); ((Client 42) A.T: 29, S.T: 7); 
+Assigning Client ID: 48 to a queue 1
+Simulation Time: 30
+Processed clients: 24
+Clients left: 26
+Queue 1: ((Client 55) A.T: 24, S.T: 1); ((Client 24) A.T: 28, S.T: 5); ((Client 48) A.T: 30, S.T: 7); 
+Queue 2: ((Client 14) A.T: 28, S.T: 4); ((Client 56) A.T: 29, S.T: 6); 
+Queue 3: ((Client 23) A.T: 26, S.T: 2); ((Client 53) A.T: 28, S.T: 1); ((Client 45) A.T: 29, S.T: 7); 
+Queue 4: ((Client 33) A.T: 26, S.T: 3); ((Client 50) A.T: 29, S.T: 7); 
+Queue 5: ((Client 40) A.T: 26, S.T: 2); ((Client 42) A.T: 29, S.T: 7); 
+Assigning Client ID: 47 to a queue 5
+Simulation Time: 31
+Processed clients: 25
+Clients left: 25
+Queue 1: ((Client 24) A.T: 28, S.T: 5); ((Client 48) A.T: 30, S.T: 7); 
+Queue 2: ((Client 14) A.T: 28, S.T: 3); ((Client 56) A.T: 29, S.T: 6); 
+Queue 3: ((Client 23) A.T: 26, S.T: 1); ((Client 53) A.T: 28, S.T: 1); ((Client 45) A.T: 29, S.T: 7); 
+Queue 4: ((Client 33) A.T: 26, S.T: 2); ((Client 50) A.T: 29, S.T: 7); 
+Queue 5: ((Client 40) A.T: 26, S.T: 1); ((Client 42) A.T: 29, S.T: 7); ((Client 47) A.T: 31, S.T: 1); 
+Assigning Client ID: 16 to a queue 2
+Assigning Client ID: 27 to a queue 3
+Assigning Client ID: 34 to a queue 4
+Simulation Time: 32
+Processed clients: 27
+Clients left: 23
+Queue 1: ((Client 24) A.T: 28, S.T: 4); ((Client 48) A.T: 30, S.T: 7); 
+Queue 2: ((Client 14) A.T: 28, S.T: 2); ((Client 56) A.T: 29, S.T: 6); ((Client 16) A.T: 32, S.T: 2); 
+Queue 3: ((Client 53) A.T: 28, S.T: 1); ((Client 45) A.T: 29, S.T: 7); ((Client 27) A.T: 32, S.T: 3); 
+Queue 4: ((Client 33) A.T: 26, S.T: 1); ((Client 50) A.T: 29, S.T: 7); ((Client 34) A.T: 32, S.T: 4); 
+Queue 5: ((Client 42) A.T: 29, S.T: 7); ((Client 47) A.T: 31, S.T: 1); 
+Assigning Client ID: 43 to a queue 5
+Simulation Time: 33
+Processed clients: 29
+Clients left: 21
+Queue 1: ((Client 24) A.T: 28, S.T: 3); ((Client 48) A.T: 30, S.T: 7); 
+Queue 2: ((Client 14) A.T: 28, S.T: 1); ((Client 56) A.T: 29, S.T: 6); ((Client 16) A.T: 32, S.T: 2); 
+Queue 3: ((Client 45) A.T: 29, S.T: 7); ((Client 27) A.T: 32, S.T: 3); 
+Queue 4: ((Client 50) A.T: 29, S.T: 7); ((Client 34) A.T: 32, S.T: 4); 
+Queue 5: ((Client 42) A.T: 29, S.T: 6); ((Client 47) A.T: 31, S.T: 1); ((Client 43) A.T: 33, S.T: 7); 
+Assigning Client ID: 41 to a queue 2
+Simulation Time: 34
+Processed clients: 30
+Clients left: 20
+Queue 1: ((Client 24) A.T: 28, S.T: 2); ((Client 48) A.T: 30, S.T: 7); 
+Queue 2: ((Client 56) A.T: 29, S.T: 6); ((Client 16) A.T: 32, S.T: 2); ((Client 41) A.T: 34, S.T: 4); 
+Queue 3: ((Client 45) A.T: 29, S.T: 6); ((Client 27) A.T: 32, S.T: 3); 
+Queue 4: ((Client 50) A.T: 29, S.T: 6); ((Client 34) A.T: 32, S.T: 4); 
+Queue 5: ((Client 42) A.T: 29, S.T: 5); ((Client 47) A.T: 31, S.T: 1); ((Client 43) A.T: 33, S.T: 7); 
+Assigning Client ID: 11 to a queue 1
+Assigning Client ID: 28 to a queue 3
+Simulation Time: 35
+Processed clients: 30
+Clients left: 20
+Queue 1: ((Client 24) A.T: 28, S.T: 1); ((Client 48) A.T: 30, S.T: 7); ((Client 11) A.T: 35, S.T: 6); 
+Queue 2: ((Client 56) A.T: 29, S.T: 5); ((Client 16) A.T: 32, S.T: 2); ((Client 41) A.T: 34, S.T: 4); 
+Queue 3: ((Client 45) A.T: 29, S.T: 5); ((Client 27) A.T: 32, S.T: 3); ((Client 28) A.T: 35, S.T: 2); 
+Queue 4: ((Client 50) A.T: 29, S.T: 5); ((Client 34) A.T: 32, S.T: 4); 
+Queue 5: ((Client 42) A.T: 29, S.T: 4); ((Client 47) A.T: 31, S.T: 1); ((Client 43) A.T: 33, S.T: 7); 
+Assigning Client ID: 15 to a queue 4
+Simulation Time: 36
+Processed clients: 31
+Clients left: 19
+Queue 1: ((Client 48) A.T: 30, S.T: 7); ((Client 11) A.T: 35, S.T: 6); 
+Queue 2: ((Client 56) A.T: 29, S.T: 4); ((Client 16) A.T: 32, S.T: 2); ((Client 41) A.T: 34, S.T: 4); 
+Queue 3: ((Client 45) A.T: 29, S.T: 4); ((Client 27) A.T: 32, S.T: 3); ((Client 28) A.T: 35, S.T: 2); 
+Queue 4: ((Client 50) A.T: 29, S.T: 4); ((Client 34) A.T: 32, S.T: 4); ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 42) A.T: 29, S.T: 3); ((Client 47) A.T: 31, S.T: 1); ((Client 43) A.T: 33, S.T: 7); 
+Assigning Client ID: 31 to a queue 3
+Assigning Client ID: 57 to a queue 2
+Simulation Time: 37
+Processed clients: 31
+Clients left: 19
+Queue 1: ((Client 48) A.T: 30, S.T: 6); ((Client 11) A.T: 35, S.T: 6); 
+Queue 2: ((Client 56) A.T: 29, S.T: 3); ((Client 16) A.T: 32, S.T: 2); ((Client 41) A.T: 34, S.T: 4); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 45) A.T: 29, S.T: 3); ((Client 27) A.T: 32, S.T: 3); ((Client 28) A.T: 35, S.T: 2); ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 50) A.T: 29, S.T: 3); ((Client 34) A.T: 32, S.T: 4); ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 42) A.T: 29, S.T: 2); ((Client 47) A.T: 31, S.T: 1); ((Client 43) A.T: 33, S.T: 7); 
+Simulation Time: 38
+Processed clients: 31
+Clients left: 19
+Queue 1: ((Client 48) A.T: 30, S.T: 5); ((Client 11) A.T: 35, S.T: 6); 
+Queue 2: ((Client 56) A.T: 29, S.T: 2); ((Client 16) A.T: 32, S.T: 2); ((Client 41) A.T: 34, S.T: 4); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 45) A.T: 29, S.T: 2); ((Client 27) A.T: 32, S.T: 3); ((Client 28) A.T: 35, S.T: 2); ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 50) A.T: 29, S.T: 2); ((Client 34) A.T: 32, S.T: 4); ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 42) A.T: 29, S.T: 1); ((Client 47) A.T: 31, S.T: 1); ((Client 43) A.T: 33, S.T: 7); 
+Assigning Client ID: 17 to a queue 5
+Assigning Client ID: 54 to a queue 5
+Simulation Time: 39
+Processed clients: 32
+Clients left: 18
+Queue 1: ((Client 48) A.T: 30, S.T: 4); ((Client 11) A.T: 35, S.T: 6); 
+Queue 2: ((Client 56) A.T: 29, S.T: 1); ((Client 16) A.T: 32, S.T: 2); ((Client 41) A.T: 34, S.T: 4); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 45) A.T: 29, S.T: 1); ((Client 27) A.T: 32, S.T: 3); ((Client 28) A.T: 35, S.T: 2); ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 50) A.T: 29, S.T: 1); ((Client 34) A.T: 32, S.T: 4); ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 47) A.T: 31, S.T: 1); ((Client 43) A.T: 33, S.T: 7); ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Assigning Client ID: 29 to a queue 1
+Simulation Time: 40
+Processed clients: 36
+Clients left: 14
+Queue 1: ((Client 48) A.T: 30, S.T: 3); ((Client 11) A.T: 35, S.T: 6); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 16) A.T: 32, S.T: 2); ((Client 41) A.T: 34, S.T: 4); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 27) A.T: 32, S.T: 3); ((Client 28) A.T: 35, S.T: 2); ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 34) A.T: 32, S.T: 4); ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 43) A.T: 33, S.T: 7); ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 41
+Processed clients: 36
+Clients left: 14
+Queue 1: ((Client 48) A.T: 30, S.T: 2); ((Client 11) A.T: 35, S.T: 6); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 16) A.T: 32, S.T: 1); ((Client 41) A.T: 34, S.T: 4); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 27) A.T: 32, S.T: 2); ((Client 28) A.T: 35, S.T: 2); ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 34) A.T: 32, S.T: 3); ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 43) A.T: 33, S.T: 6); ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 42
+Processed clients: 37
+Clients left: 13
+Queue 1: ((Client 48) A.T: 30, S.T: 1); ((Client 11) A.T: 35, S.T: 6); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 41) A.T: 34, S.T: 4); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 27) A.T: 32, S.T: 1); ((Client 28) A.T: 35, S.T: 2); ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 34) A.T: 32, S.T: 2); ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 43) A.T: 33, S.T: 5); ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 43
+Processed clients: 39
+Clients left: 11
+Queue 1: ((Client 11) A.T: 35, S.T: 6); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 41) A.T: 34, S.T: 3); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 28) A.T: 35, S.T: 2); ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 34) A.T: 32, S.T: 1); ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 43) A.T: 33, S.T: 4); ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 44
+Processed clients: 40
+Clients left: 10
+Queue 1: ((Client 11) A.T: 35, S.T: 5); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 41) A.T: 34, S.T: 2); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 28) A.T: 35, S.T: 1); ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 15) A.T: 36, S.T: 6); 
+Queue 5: ((Client 43) A.T: 33, S.T: 3); ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 45
+Processed clients: 41
+Clients left: 9
+Queue 1: ((Client 11) A.T: 35, S.T: 4); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 41) A.T: 34, S.T: 1); ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 31) A.T: 37, S.T: 4); 
+Queue 4: ((Client 15) A.T: 36, S.T: 5); 
+Queue 5: ((Client 43) A.T: 33, S.T: 2); ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 46
+Processed clients: 42
+Clients left: 8
+Queue 1: ((Client 11) A.T: 35, S.T: 3); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 57) A.T: 37, S.T: 7); 
+Queue 3: ((Client 31) A.T: 37, S.T: 3); 
+Queue 4: ((Client 15) A.T: 36, S.T: 4); 
+Queue 5: ((Client 43) A.T: 33, S.T: 1); ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 47
+Processed clients: 43
+Clients left: 7
+Queue 1: ((Client 11) A.T: 35, S.T: 2); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 57) A.T: 37, S.T: 6); 
+Queue 3: ((Client 31) A.T: 37, S.T: 2); 
+Queue 4: ((Client 15) A.T: 36, S.T: 3); 
+Queue 5: ((Client 17) A.T: 39, S.T: 1); ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 48
+Processed clients: 44
+Clients left: 6
+Queue 1: ((Client 11) A.T: 35, S.T: 1); ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 57) A.T: 37, S.T: 5); 
+Queue 3: ((Client 31) A.T: 37, S.T: 1); 
+Queue 4: ((Client 15) A.T: 36, S.T: 2); 
+Queue 5: ((Client 54) A.T: 39, S.T: 6); 
+Simulation Time: 49
+Processed clients: 46
+Clients left: 4
+Queue 1: ((Client 29) A.T: 40, S.T: 5); 
+Queue 2: ((Client 57) A.T: 37, S.T: 4); 
+Queue 3: 
+Queue 4: ((Client 15) A.T: 36, S.T: 1); 
+Queue 5: ((Client 54) A.T: 39, S.T: 5); 
+Simulation Time: 50
+Processed clients: 47
+Clients left: 3
+Queue 1: ((Client 29) A.T: 40, S.T: 4); 
+Queue 2: ((Client 57) A.T: 37, S.T: 3); 
+Queue 3: 
+Queue 4: 
+Queue 5: ((Client 54) A.T: 39, S.T: 4); 
+Simulation Time: 51
+Processed clients: 47
+Clients left: 3
+Queue 1: ((Client 29) A.T: 40, S.T: 3); 
+Queue 2: ((Client 57) A.T: 37, S.T: 2); 
+Queue 3: 
+Queue 4: 
+Queue 5: ((Client 54) A.T: 39, S.T: 3); 
+Simulation Time: 52
+Processed clients: 47
+Clients left: 3
+Queue 1: ((Client 29) A.T: 40, S.T: 2); 
+Queue 2: ((Client 57) A.T: 37, S.T: 1); 
+Queue 3: 
+Queue 4: 
+Queue 5: ((Client 54) A.T: 39, S.T: 2); 
+Simulation Time: 53
+Processed clients: 48
+Clients left: 2
+Queue 1: ((Client 29) A.T: 40, S.T: 1); 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: ((Client 54) A.T: 39, S.T: 1); 
+Simulation Time: 54
+Processed clients: 50
+Clients left: 0
+Simulation ended. All clients processed.
+Average waiting time: 7
+Average service time: 4
+Peak hour: 39
