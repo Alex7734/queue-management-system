@@ -1,0 +1,172 @@
+Strategy set to Shortest Time
+Simulation Time: 1
+Processed clients: 0
+Clients left: 4
+Queue 1: 
+Queue 2: 
+Simulation Time: 2
+Processed clients: 0
+Clients left: 4
+Queue 1: 
+Queue 2: 
+Simulation Time: 3
+Processed clients: 0
+Clients left: 4
+Queue 1: 
+Queue 2: 
+Simulation Time: 4
+Processed clients: 0
+Clients left: 4
+Queue 1: 
+Queue 2: 
+Assigning Client ID: 3 to a queue 1
+Simulation Time: 5
+Processed clients: 0
+Clients left: 4
+Queue 1: ((Client 3) A.T: 5, S.T: 4); 
+Queue 2: 
+Simulation Time: 6
+Processed clients: 0
+Clients left: 4
+Queue 1: ((Client 3) A.T: 5, S.T: 3); 
+Queue 2: 
+Simulation Time: 7
+Processed clients: 0
+Clients left: 4
+Queue 1: ((Client 3) A.T: 5, S.T: 2); 
+Queue 2: 
+Simulation Time: 8
+Processed clients: 0
+Clients left: 4
+Queue 1: ((Client 3) A.T: 5, S.T: 1); 
+Queue 2: 
+Simulation Time: 9
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 10
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 11
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 12
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 13
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 14
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 15
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 16
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 17
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Simulation Time: 18
+Processed clients: 1
+Clients left: 3
+Queue 1: 
+Queue 2: 
+Assigning Client ID: 1 to a queue 1
+Assigning Client ID: 2 to a queue 2
+Simulation Time: 19
+Processed clients: 1
+Clients left: 3
+Queue 1: ((Client 1) A.T: 19, S.T: 3); 
+Queue 2: ((Client 2) A.T: 19, S.T: 4); 
+Simulation Time: 20
+Processed clients: 1
+Clients left: 3
+Queue 1: ((Client 1) A.T: 19, S.T: 2); 
+Queue 2: ((Client 2) A.T: 19, S.T: 3); 
+Simulation Time: 21
+Processed clients: 1
+Clients left: 3
+Queue 1: ((Client 1) A.T: 19, S.T: 1); 
+Queue 2: ((Client 2) A.T: 19, S.T: 2); 
+Simulation Time: 22
+Processed clients: 2
+Clients left: 2
+Queue 1: 
+Queue 2: ((Client 2) A.T: 19, S.T: 1); 
+Simulation Time: 23
+Processed clients: 3
+Clients left: 1
+Queue 1: 
+Queue 2: 
+Simulation Time: 24
+Processed clients: 3
+Clients left: 1
+Queue 1: 
+Queue 2: 
+Simulation Time: 25
+Processed clients: 3
+Clients left: 1
+Queue 1: 
+Queue 2: 
+Simulation Time: 26
+Processed clients: 3
+Clients left: 1
+Queue 1: 
+Queue 2: 
+Simulation Time: 27
+Processed clients: 3
+Clients left: 1
+Queue 1: 
+Queue 2: 
+Simulation Time: 28
+Processed clients: 3
+Clients left: 1
+Queue 1: 
+Queue 2: 
+Simulation Time: 29
+Processed clients: 3
+Clients left: 1
+Queue 1: 
+Queue 2: 
+Assigning Client ID: 4 to a queue 1
+Simulation Time: 30
+Processed clients: 3
+Clients left: 1
+Queue 1: ((Client 4) A.T: 30, S.T: 3); 
+Queue 2: 
+Simulation Time: 31
+Processed clients: 3
+Clients left: 1
+Queue 1: ((Client 4) A.T: 30, S.T: 2); 
+Queue 2: 
+Simulation Time: 32
+Processed clients: 3
+Clients left: 1
+Queue 1: ((Client 4) A.T: 30, S.T: 1); 
+Queue 2: 
+Simulation Time: 33
+Processed clients: 4
+Clients left: 0
+Simulation ended. All clients processed.
+Average waiting time: 3
+Average service time: 3
+Peak hour: 19
